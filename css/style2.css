@@ -1,0 +1,12 @@
+body{margin: 0px;}
+div{width: 200px;
+    height: 200px;
+    }
+.top-container{background-color: rgb(192, 218, 233);
+                border: 5px solid black;}
+.middle-container{background-color: red;
+                  border: 10px solid black;
+                  position: relative;left: 210px;}
+.bottom-container{background-color: yellow;
+                  border: 5px solid black;
+                position: relative;left: 430px;}

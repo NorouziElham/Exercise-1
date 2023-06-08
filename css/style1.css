@@ -1,0 +1,7 @@
+body{margin: 0px;}
+div{width: 200px;
+    height: 200px;
+    }
+.top-container{background-color: rgb(192, 218, 233);}
+.middle-container{background-color: red;}
+.bottom-container{background-color: blue;}
